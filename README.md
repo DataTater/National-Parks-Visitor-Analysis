@@ -12,4 +12,4 @@ In this project, I explored visitor data for various national parks in the U.S. 
 - **ggplot2**
 - **tidyverse**
 
-![Bar chart of National Parks Visitors](national_parks_visitors_bar_chart.png)
+![Bar chart of National Parks Visitors](https://github.com/DataTater/Tate-Kjosness/blob/main/National%20Parks%20visitor%20numbers%202021.png)
